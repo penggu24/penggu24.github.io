@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Peng Gu.
+Peng Gu is currently a "Zhishan" Postdoctoral Researcher with Southeast University. He received the B.Sc. degree in information engineering from Southeast University, Nanjing, China, in 2017, and the Ph.D. degree in information and communication engineering from Southeast University, Nanjing, China, in 2022.
 
-My research interest includes RFIC for communications and sensing. I have published 20+ papers <a href='https://scholar.google.com/citations?user=Urkx3egAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top Journals and Conferences, including JSSC, TMTT, TCAS-1, CTAS-2, RFIC, A-SSCC, etc.
+His current research interests include RF and millimeter-wave integrated circuits for wireless communication and sensing systems.
+
+Dr. Gu have published about 20 papers <a href='https://scholar.google.com/citations?user=Urkx3egAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top journals and conferences, including JSSC, T-MTT, TCAS-1, CTAS-2, RFIC, A-SSCC, etc. He has been authorized 3 China patents and 2 integrated circuit layouts.
 
 <!--
 # 🔥 News
@@ -28,7 +30,7 @@ My research interest includes RFIC for communications and sensing. I have publis
 -->
 
 # 📝 Publications 
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -40,8 +42,9 @@ My research interest includes RFIC for communications and sensing. I have publis
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+-->
 
-- **CVPR 2020** [Paper](https://github.com), A, B, C
+- **Peng Gu**, Dixian Zhao and Xiaohu You, [A wideband low-loss CMOS attenuator with dB-linear gain tuning for W-band applications](https://ieeexplore.ieee.org/abstract/document/10102658), IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 70, no. 9, pp. 3308–3312, 2023.
 
 # 🎖 Honors and Awards
 - *2022.10*, Baosteel Outstanding Student, Baosteel
@@ -49,7 +52,7 @@ My research interest includes RFIC for communications and sensing. I have publis
 
 # 📖 Educations
 - *2017.06 - 2022.09*, Ph.D, Information and Communication Engineering, Southeast University. 
-- *2013.09 - 2017.06*, B.E, Information Engineering, Southeast University.
+- *2013.09 - 2017.06*, B.Sc., Information Engineering, Southeast University.
 
 <!--
 # 💬 Invited Talks
