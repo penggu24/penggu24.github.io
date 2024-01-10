@@ -44,7 +44,7 @@ Dr. Gu have published about 20 papers <a href='https://scholar.google.com/citati
 </div>
 -->
 
-- **Peng Gu**, Dixian Zhao and Xiaohu You, [A wideband low-loss CMOS attenuator with dB-linear gain tuning for W-band applications](https://ieeexplore.ieee.org/abstract/document/10102658), IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 70, no. 9, pp. 3308–3312, 2023.
+- <div class="badge">TCAS-2 2023</div> **Peng Gu**, Dixian Zhao and Xiaohu You, [A wideband low-loss CMOS attenuator with dB-linear gain tuning for W-band applications](https://ieeexplore.ieee.org/abstract/document/10102658), IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 70, no. 9, pp. 3308–3312, 2023.
 
 # 🎖 Honors and Awards
 - *2022.10*, Baosteel Outstanding Student, Baosteel
