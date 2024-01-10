@@ -41,14 +41,14 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **CVPR 2020** [Paper](https://github.com), A, B, C
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.10* Baosteel Outstanding Student, Baosteel
+- *2021.12* National Scholarship, Ministry of Education, China
 
 # 📖 Educations
-- *2017.06 - 2022.09*, B.E, Information Engineering, Southeast University. 
+- *2017.06 - 2022.09*, Ph.D, Information and Communication Engineering, Southeast University. 
 - *2013.09 - 2017.06*, B.E, Information Engineering, Southeast University.
 
 <!--
