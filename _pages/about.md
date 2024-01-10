@@ -29,7 +29,7 @@ Dr. Gu have published ~20 papers <a href='https://scholar.google.com/citations?u
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
-# 📝 Main Publications
+# 📝 Selected Publications
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -44,10 +44,11 @@ Dr. Gu have published ~20 papers <a href='https://scholar.google.com/citations?u
 </div>
 -->
 
-- <span style="background-color: #0000CD; color: white; width: fit-content; padding: 0pt 3pt;">TCAS-II 2023</span> <strong><span class='show_paper_citations' data='Urkx3egAAAAJ:u5HHmVD_uO8C'></span></strong> **Peng Gu**, Dixian Zhao and Xiaohu You, [A wideband low-loss CMOS attenuator with dB-linear gain tuning for W-band applications](https://ieeexplore.ieee.org/abstract/document/10102658), IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 70, no. 9, pp. 3308–3312, 2023.
-- <span style="background-color: #0000CD; color: white; width: fit-content; padding: 0pt 3pt;">TCAS-I 2021</span> **Peng Gu**, Dixian Zhao and Xiaohu You, [Analysis and design of a CMOS bidirectional passive vector-modulated phase shifter](https://ieeexplore.ieee.org/abstract/document/9324957/), IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 68, no. 4, pp. 1398–1408, 2021. 
-- <span style="background-color: #0000CD; color: white; width: fit-content; padding: 0pt 3pt;">TCAS-I 2020</span> **Peng Gu**, Dixian Zhao and Xiaohu You, [A DC-50 GHz CMOS switched-type attenuator with capacitive compensation technique](https://ieeexplore.ieee.org/abstract/document/9110720/), IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 67, no. 10, pp. 3389–3399, 2020.
-- <span style="background-color: #0000CD; color: white; width: fit-content; padding: 0pt 3pt;">TMTT 2019</span> **Peng Gu** and Dixian Zhao, [Geometric analysis and systematic design of a reflective-type phase shifter with full 360° phase shift range and minimal loss variation](https://ieeexplore.ieee.org/abstract/document/8809827/), IEEE Transactions on Microwave Theory and Techniques, vol. 67, no. 10, pp. 4156–4166, 2019. 
+- <span class="paper-list-head">TCAS-II 2023</span> <strong><span class='show_paper_citations' data='Urkx3egAAAAJ:u5HHmVD_uO8C'></span></strong> **Peng Gu**, Dixian Zhao and Xiaohu You, [A wideband low-loss CMOS attenuator with dB-linear gain tuning for W-band applications](https://ieeexplore.ieee.org/abstract/document/10102658), IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 70, no. 9, pp. 3308–3312, 2023.
+- <span class="paper-list-head">TCAS-I 2021</span> **Peng Gu**, Dixian Zhao and Xiaohu You, [Analysis and design of a CMOS bidirectional passive vector-modulated phase shifter](https://ieeexplore.ieee.org/abstract/document/9324957/), IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 68, no. 4, pp. 1398–1408, 2021. 
+- <span class="paper-list-head">TCAS-I 2020</span> **Peng Gu**, Dixian Zhao and Xiaohu You, [A DC-50 GHz CMOS switched-type attenuator with capacitive compensation technique](https://ieeexplore.ieee.org/abstract/document/9110720/), IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 67, no. 10, pp. 3389–3399, 2020.
+- <span class="paper-list-head">TMTT 2019</span> **Peng Gu** and Dixian Zhao, [Geometric analysis and systematic design of a reflective-type phase shifter with full 360° phase shift range and minimal loss variation](https://ieeexplore.ieee.org/abstract/document/8809827/), IEEE Transactions on Microwave Theory and Techniques, vol. 67, no. 10, pp. 4156–4166, 2019. 
+- TEST
 
 
 # 🎖 Honors and Awards
