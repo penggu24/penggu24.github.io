@@ -19,10 +19,9 @@ redirect_from:
 
 Peng Gu is currently a "Zhishan" Postdoctoral Researcher with Southeast University. He received the B.Sc. degree in information engineering from Southeast University, Nanjing, China, in 2017, and the Ph.D. degree in information and communication engineering from Southeast University, Nanjing, China, in 2022.
 
-His current research interests include RF and millimeter-wave integrated circuits for wireless communication and sensing systems.
+His current research interests include RF and mm-Wave integrated circuits for wireless communication and sensing systems.
 
-Dr. Gu have published ~20 papers at the top journals and conferences, including JSSC, T-MTT, TCAS-I, TCAS-II, RFIC, A-SSCC, etc. He holds 3 China patents and 2 integrated circuit layouts. <a href='https://scholar.google.com/citations?user=Urkx3egAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
+Dr. Gu have published ~20 papers at the top journals & conferences, including JSSC, T-MTT, TCAS-I, TCAS-II, RFIC, A-SSCC etc., with a total citation of <a href='https://scholar.google.com/citations?user=Urkx3egAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. He holds 3 China invention patents and 2 integrated circuit layouts. 
 <!--
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -56,7 +55,6 @@ Dr. Gu have published ~20 papers at the top journals and conferences, including 
 - <span class="paper-list-head">CA: RFIC 2018</span> **Peng Gu** and Dixian Zhao, [Ka-band CMOS 360° reflective-type phase shifter with±0.2 dB insertion loss variation using triple-resonating load and dual-voltage control techniques](https://ieeexplore.ieee.org/abstract/document/8809827/), 2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC). IEEE, 2018, pp. 140–143.
 - <span class="paper-list-head">JA: T-MTT 2023</span> Dixian Zhao, **Peng Gu**, Yongran Yi, Jiajun Zhang, Chenyu Xu, Mengru Yang, Zhihui Chen, Yuan Chai, Huiqi Liu, Shan Jiang, Xiangxi Yan, Xiaohu You, [A K-band hybrid-packaged temperature-compensated phased-array receiver and integrated antenna array](https://ieeexplore.ieee.org/abstract/document/8809827/), IEEE Transactions on Microwave Theory and Techniques, vol. 71, no. 1, pp. 409–423, 2023.
 - <span class="paper-list-head">JA: TCAS-I 2021</span> Dixian Zhao, **Peng Gu**, Jiecheng Zhong, Na Peng, Mengru Yang, Yongran Yi, Jiajun Zhang, Pingyang He, Yuan Chai, Zhihui Chen, Xiaohu You, [Millimeter-Wave Integrated Phased Arrays](https://ieeexplore.ieee.org/abstract/document/8809827/), IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 68, no. 10, pp. 3977–3990, 2021.<span class='show_paper_citations' data='Urkx3egAAAAJ:WF5omc3nYNoC'></span>
-
 
 
 # 🎖 Honors and Awards
