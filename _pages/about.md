@@ -29,7 +29,7 @@ Dr. Gu have published ~20 papers <a href='https://scholar.google.com/citations?u
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
-# 📝 Publications 
+# 📝 Main Publications
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -44,8 +44,11 @@ Dr. Gu have published ~20 papers <a href='https://scholar.google.com/citations?u
 </div>
 -->
 
-- <div style="background-color: blue; color: white; padding: 10px;">TCAS-2 2023</div> **Peng Gu**, Dixian Zhao and Xiaohu You, [A wideband low-loss CMOS attenuator with dB-linear gain tuning for W-band applications](https://ieeexplore.ieee.org/abstract/document/10102658), IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 70, no. 9, pp. 3308–3312, 2023.
-- 
+- <div style="background-color: blue; color: white;">TCAS-2 2023</div> **Peng Gu**, Dixian Zhao and Xiaohu You, [A wideband low-loss CMOS attenuator with dB-linear gain tuning for W-band applications](https://ieeexplore.ieee.org/abstract/document/10102658), IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 70, no. 9, pp. 3308–3312, 2023.
+- <div style="background-color: blue; color: white;">TCAS-1 2021</div> **Peng Gu**, Dixian Zhao and Xiaohu You, [Analysis and design of a CMOS bidirectional passive vector-modulated phase shifter](https://ieeexplore.ieee.org/abstract/document/9324957/), IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 68, no. 4, pp. 1398–1408, 2021. 
+- <div style="background-color: blue; color: white;">TCAS-1 2020</div> **Peng Gu**, Dixian Zhao and Xiaohu You, [A DC-50 GHz CMOS switched-type attenuator with capacitive compensation technique](https://ieeexplore.ieee.org/abstract/document/9324957/), IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 67, no. 10, pp. 3389–3399, 2020.
+- <div style="background-color: blue; color: white;">TMTT 2019</div> **Peng Gu**, Dixian Zhao and Xiaohu You, [Geometric analysis and systematic design of a reflective-type phase shifter with full 360° phase shift range and minimal loss variation](https://ieeexplore.ieee.org/abstract/document/9324957/), IEEE Transactions on Microwave Theory and Techniques, vol. 67, no. 10, pp. 4156–4166, 2019. 
+
 
 # 🎖 Honors and Awards
 - *2022.10*, Baosteel Outstanding Student Award, Baosteel
