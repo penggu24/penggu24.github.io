@@ -31,6 +31,7 @@ Dr. Gu have published ~20 papers <a href='https://scholar.google.com/citations?u
 
 # 📝 Selected Publications 
 (JA: Journal Article; CA: Conference Article)
+
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
