@@ -21,7 +21,7 @@ Peng Gu is currently a "Zhishan" Postdoctoral Researcher with Southeast Universi
 
 His current research interests include RF and millimeter-wave integrated circuits for wireless communication and sensing systems.
 
-Dr. Gu have published about 20 papers <a href='https://scholar.google.com/citations?user=Urkx3egAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top journals and conferences, including JSSC, T-MTT, TCAS-1, CTAS-2, RFIC, A-SSCC, etc. He has been authorized 3 China patents and 2 integrated circuit layouts.
+Dr. Gu have published ~20 papers <a href='https://scholar.google.com/citations?user=Urkx3egAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top journals and conferences, including JSSC, T-MTT, TCAS-1, TCAS-2, RFIC, A-SSCC, etc. He has been authorized 3 China patents and 2 integrated circuit layouts.
 
 <!--
 # 🔥 News
@@ -44,7 +44,7 @@ Dr. Gu have published about 20 papers <a href='https://scholar.google.com/citati
 </div>
 -->
 
-- <div class="badge">TCAS-2 2023</div> **Peng Gu**, Dixian Zhao and Xiaohu You, [A wideband low-loss CMOS attenuator with dB-linear gain tuning for W-band applications](https://ieeexplore.ieee.org/abstract/document/10102658), IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 70, no. 9, pp. 3308–3312, 2023.
+- <div class="red-text">TCAS-2 2023</div> **Peng Gu**, Dixian Zhao and Xiaohu You, [A wideband low-loss CMOS attenuator with dB-linear gain tuning for W-band applications](https://ieeexplore.ieee.org/abstract/document/10102658), IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 70, no. 9, pp. 3308–3312, 2023.
 
 # 🎖 Honors and Awards
 - *2022.10*, Baosteel Outstanding Student, Baosteel
