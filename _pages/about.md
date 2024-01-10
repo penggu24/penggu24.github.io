@@ -19,7 +19,7 @@ redirect_from:
 
 Peng Gu.
 
-My research interest includes neural machine translation and computer vision. I have published 20+ papers <a href='https://scholar.google.com/citations?user=Urkx3egAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences.
+My research interest includes RFIC for communications and sensing. I have published 20+ papers <a href='https://scholar.google.com/citations?user=Urkx3egAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top Journals and Conferences, including JSSC, TMTT, TCAS-1, CTAS-2, RFIC, A-SSCC, etc.
 
 <!--
 # 🔥 News
