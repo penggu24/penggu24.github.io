@@ -44,8 +44,8 @@ My research interest includes neural machine translation and computer vision. I 
 - **CVPR 2020** [Paper](https://github.com), A, B, C
 
 # 🎖 Honors and Awards
-- *2022.10* Baosteel Outstanding Student, Baosteel
-- *2021.12* National Scholarship, Ministry of Education, China
+- *2022.10*, Baosteel Outstanding Student, Baosteel
+- *2021.12*, National Scholarship, Ministry of Education, China
 
 # 📖 Educations
 - *2017.06 - 2022.09*, Ph.D, Information and Communication Engineering, Southeast University. 
