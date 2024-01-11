@@ -19,7 +19,7 @@ redirect_from:
 
 Peng Gu is currently a "Zhishan" Postdoctoral Researcher with Southeast University. He received the B.Sc. degree (with Hons.) in information engineering from Southeast University, Nanjing, China, in 2017, and the Ph.D. degree in information and communication engineering from Southeast University, Nanjing, China, in 2022.
 
-His current research interests include RF and millimeter-Wave integrated circuits for wireless communication and sensing systems.
+His current research interests include RF and mm-Wave integrated circuits for wireless communication and sensing systems.
 
 Dr. Gu have published ~20 papers <a href='https://scholar.google.com/citations?user=Urkx3egAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top journals and conferences, including JSSC, T-MTT, TCAS-I, TCAS-II, RFIC, A-SSCC, etc. He holds 3 China patents and 2 integrated circuit layouts.
 
@@ -62,8 +62,7 @@ Dr. Gu have published ~20 papers <a href='https://scholar.google.com/citations?u
 # 🎖 Honors and Awards
 - *2022.10*, Baosteel Outstanding Student Award, Baosteel (TOP 0.05%)
 - *2021.12*, National Scholarship, Ministry of Education, China (TOP 1%)
-- *2021.09*, First-Class Scholarship, Southeast University, China (TOP 5%)
-- *2020.09*, First-Class Scholarship, Southeast University, China (TOP 5%)
+- *2020.09*, First-Class Scholarship, Southeast University, China (TOP 10%)
 - *2017.06*, Outstanding Graduates, Southeast University, China (TOP 5%)
 
 
