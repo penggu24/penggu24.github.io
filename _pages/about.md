@@ -50,7 +50,7 @@ Dr. Gu have published ~20 papers at the top journals & conferences, including JS
 
 
 # 📖 Educations
-- *2017.09 - 2022.09*, Ph.D, Information and Communication Engineering, Southeast University. 
+- *2017.09 - 2022.09*, Ph.D., Information and Communication Engineering, Southeast University. 
 - *2013.09 - 2017.06*, B.Sc., Information Engineering, Southeast University.
 
 <!--
