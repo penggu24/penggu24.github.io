@@ -17,7 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<<<<<<< HEAD
 Peng Gu received the B.Sc. degree in information engineering from Southeast University, Nanjing, China, in 2017, and the Ph.D. degree in information and communication engineering from Southeast University, Nanjing, China, in 2022. He is currently a "Zhishan" Postdoctoral Researcher with Southeast University.
+=======
+Peng Gu is currently a "Zhishan" Postdoctoral Researcher with Southeast University. He received the B.Sc. degree (with Hons.) in information engineering from Southeast University, Nanjing, China, in 2017, and the Ph.D. degree in information and communication engineering from Southeast University, Nanjing, China, in 2022.
+>>>>>>> f4d1b0900a9343120316d7af8ceeb38c3f24b02f
 
 His current research interests include RF and mm-Wave integrated circuits for wireless communication and sensing systems.
 
@@ -43,8 +47,11 @@ Dr. Gu have published ~20 papers at the top journals & conferences, including JS
 
 
 # 🎖 Honors and Awards
-- *2022.10*, Baosteel Outstanding Student Award, Baosteel
-- *2021.12*, National Scholarship, Ministry of Education, China
+- *2022.10*, Baosteel Outstanding Student Award, Baosteel (TOP 0.05%)
+- *2021.12*, National Scholarship, Ministry of Education, China (TOP 1%)
+- *2020.09*, First-Class Scholarship, Southeast University, China (TOP 10%)
+- *2017.06*, Outstanding Graduates, Southeast University, China (TOP 5%)
+
 
 # 📖 Educations
 - *2017.09 - 2022.09*, Ph.D, Information and Communication Engineering, Southeast University. 
