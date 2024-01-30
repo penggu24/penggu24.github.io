@@ -21,7 +21,7 @@ Peng Gu is currently a "Zhishan" Postdoctoral Researcher with Southeast Universi
 
 His current research interests include RF and mm-Wave integrated circuits for wireless communication and sensing systems.
 
-Dr. Gu have published ~20 papers at the top journals & conferences, including JSSC, T-MTT, TCAS-I, TCAS-II, RFIC, A-SSCC etc., with a total citation of <a href='https://scholar.google.com/citations?user=Urkx3egAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. He holds 3 China invention patents and 2 integrated circuit layouts. 
+Dr. Gu have published ~20 papers at the top journals & conferences, including JSSC, T-MTT, TCAS-I, TCAS-II, RFIC, A-SSCC, etc., with a total citation of <a href='https://scholar.google.com/citations?user=Urkx3egAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. He holds 3 China invention patents and 2 integrated circuit layouts. 
 
 <!--
 # 🔥 News
