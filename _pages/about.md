@@ -17,34 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Peng Gu is currently a "Zhishan" Postdoctoral Researcher with Southeast University. He received the B.Sc. degree (with Hons.) in information engineering from Southeast University, Nanjing, China, in 2017, and the Ph.D. degree in information and communication engineering from Southeast University, Nanjing, China, in 2022.
+Peng Gu received the B.Sc. degree in information engineering from Southeast University, Nanjing, China, in 2017, and the Ph.D. degree in information and communication engineering from Southeast University, Nanjing, China, in 2022. He is currently a "Zhishan" Postdoctoral Researcher with Southeast University.
 
 His current research interests include RF and mm-Wave integrated circuits for wireless communication and sensing systems.
 
 Dr. Gu have published ~20 papers at the top journals & conferences, including JSSC, T-MTT, TCAS-I, TCAS-II, RFIC, A-SSCC, etc., with a total citation of <a href='https://scholar.google.com/citations?user=Urkx3egAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. He holds 3 China invention patents and 2 integrated circuit layouts. 
 
-<!--
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
-
 # 📝 Selected Publications 
 (JA: Journal Article; CA: Conference Article)
-
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
--->
 
 - <span class="paper-list-head">JA: TCAS-II 2023</span> **Peng Gu**, Dixian Zhao and Xiaohu You, [A wideband low-loss CMOS attenuator with dB-linear gain tuning for W-band applications](https://ieeexplore.ieee.org/abstract/document/10102658), IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 70, no. 9, pp. 3308–3312, 2023.
 - <span class="paper-list-head">JA: TCAS-I 2021</span> **Peng Gu**, Dixian Zhao and Xiaohu You, [Analysis and design of a CMOS bidirectional passive vector-modulated phase shifter](https://ieeexplore.ieee.org/abstract/document/9324957/), IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 68, no. 4, pp. 1398–1408, 2021. 
@@ -70,7 +50,7 @@ Dr. Gu have published ~20 papers at the top journals & conferences, including JS
 
 
 # 📖 Educations
-- *2017.09 - 2022.09*, Ph.D, Information and Communication Engineering, Southeast University. 
+- *2017.09 - 2022.09*, Ph.D., Information and Communication Engineering, Southeast University. 
 - *2013.09 - 2017.06*, B.Sc., Information Engineering, Southeast University.
 
 <!--
