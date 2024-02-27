@@ -48,16 +48,5 @@ Dr. Gu has authored or co-authored over 20 peer-reviewed journal articles and co
 
 
 # 📖 Educations
-- *2017.09 - 2022.09*, Ph.D., Information and Communication Engineering, Southeast University. 
-- *2013.09 - 2017.06*, B.Sc., Information Engineering, Southeast University.
-
-<!--
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
-
-<!--
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
--->
+- *2017.09 - 2022.09*, Ph.D., information science and engineering, Southeast University. 
+- *2013.09 - 2017.06*, B.Sc., information science and engineering, Southeast University.
