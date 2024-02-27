@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Peng Gu received the B.Sc. degree in information engineering from Southeast University, Nanjing, China, in 2017, and the Ph.D. degree in information and communication engineering from Southeast University, Nanjing, China, in 2022. He is currently a "Zhishan" Postdoctoral Researcher with Southeast University.
+Peng Gu received the B.Sc. (with Hons.) and Ph.D. degrees in information science and engineering from Southeast University, Nanjing, China, in 2017 and 2022, respectively. Since 2022, he has been with Southeast University, as a Zhishan Postdoctoral Researcher. His current research interests include RF and mm-Wave integrated circuits, transceivers and phased arrays for wireless communication and sensing systems.
 
-His current research interests include RF and mm-Wave integrated circuits for wireless communication and sensing systems.
-
-Dr. Gu have published ~20 papers at the top journals & conferences, including JSSC, T-MTT, TCAS-I, TCAS-II, RFIC, A-SSCC, etc., with a total citation of <a href='https://scholar.google.com/citations?user=Urkx3egAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. He holds 3 China invention patents and 2 integrated circuit layouts. 
+Dr. Gu has authored or co-authored over 20 peer-reviewed journal articles and conference papers, including JSSC, T-MTT, TCAS-I, TCAS-II, RFIC, A-SSCC, etc., with a total citation of <a href='https://scholar.google.com/citations?user=Urkx3egAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. He holds 3 China invention patents and 2 integrated circuit layouts. 
 
 # 📝 Selected Publications 
 (JA: Journal Article; CA: Conference Article)
