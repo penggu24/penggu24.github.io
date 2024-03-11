@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Peng Gu received the B.Sc. (with Hons.) and Ph.D. degrees in information science and engineering from Southeast University, Nanjing, China, in 2017 and 2022, respectively. Since 2022, he has been with Southeast University, as a Zhishan Postdoctoral Researcher. His current research interests include RF and mm-Wave integrated circuits, transceivers and phased arrays for wireless communication and sensing systems.
+Peng Gu received the B.Sc. (with Hons.) and Ph.D. degrees in information science and engineering from Southeast University, Nanjing, China, in 2017 and 2022, respectively. Since 2022, he has been with Southeast University, as a Zhishan Post-Doctoral Researcher. His current research interests include RF and mm-Wave integrated circuits, transceivers and phased arrays for wireless communication and sensing systems.
 
-Dr. Gu has authored or co-authored over 20 peer-reviewed journal articles and conference papers, including JSSC, T-MTT, TCAS-I, RFIC, A-SSCC, etc., with a total citation of <a href='https://scholar.google.com/citations?user=Urkx3egAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. He holds 3 China invention patents. 
+Dr. Gu has authored or co-authored over 20 peer-reviewed journal articles and conference papers, including JSSC, T-MTT, TCAS-I, RFIC, A-SSCC, etc., with a total citation of <a href='https://scholar.google.com/citations?user=Urkx3egAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. He holds 3 China invention patents.
 
 # 📝 Selected Publications 
 (JA: Journal Article; CA: Conference Article)
 
+- <span class="paper-list-head">JA: TMTT 2024</span> **Peng Gu**, Dixian Zhao and Xiaohu You, [A wideband vector-modulated variable gain phase shifter for 5G NR FR2 in 40-nm CMOS](https://ieeexplore.ieee.org/document/10460336), IEEE Transactions on Microwave Theory and Techniques.
 - <span class="paper-list-head">JA: TCAS-II 2023</span> **Peng Gu**, Dixian Zhao and Xiaohu You, [A wideband low-loss CMOS attenuator with dB-linear gain tuning for W-band applications](https://ieeexplore.ieee.org/abstract/document/10102658), IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 70, no. 9, pp. 3308–3312, 2023.
 - <span class="paper-list-head">JA: TCAS-I 2021</span> **Peng Gu**, Dixian Zhao and Xiaohu You, [Analysis and design of a CMOS bidirectional passive vector-modulated phase shifter](https://ieeexplore.ieee.org/abstract/document/9324957/), IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 68, no. 4, pp. 1398–1408, 2021. 
 - <span class="paper-list-head">JA: TCAS-I 2020</span> **Peng Gu**, Dixian Zhao and Xiaohu You, [A DC-50 GHz CMOS switched-type attenuator with capacitive compensation technique](https://ieeexplore.ieee.org/abstract/document/9110720/), IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 67, no. 10, pp. 3389–3399, 2020.
