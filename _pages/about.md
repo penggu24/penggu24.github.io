@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Peng Gu received the B.Sc. (with Hons.) and Ph.D. degrees in information science and engineering from Southeast University, Nanjing, China, in 2017 and 2022, respectively. Since 2022, he has been with Southeast University, as a Zhishan Post-Doctoral Researcher. His current research interests include RF and mm-Wave integrated circuits, transceivers and phased arrays for wireless communication and sensing systems.
+Peng Gu received the B.Sc. (with Hons.) and Ph.D. degrees in information science and engineering from Southeast University, Nanjing, China, in 2017 and 2022, respectively. His research interests include RF and mm-Wave integrated circuits, transceivers and phased arrays for wireless communication and sensing systems.
 
-Dr. Gu has authored or co-authored over 20 peer-reviewed journal articles and conference papers, including JSSC, T-MTT, TCAS-I, RFIC, A-SSCC, etc., with a total citation of <a href='https://scholar.google.com/citations?user=Urkx3egAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. He holds 3 China invention patents.
+Dr. Gu has authored or co-authored over 20 peer-reviewed journal articles and conference papers, including JSSC, TMTT, TCAS, RFIC, A-SSCC, etc., with citation of <a href='https://scholar.google.com/citations?user=Urkx3egAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 📝 Selected Publications 
 (JA: Journal Article; CA: Conference Article)
@@ -39,15 +39,3 @@ Dr. Gu has authored or co-authored over 20 peer-reviewed journal articles and co
 - <span class="paper-list-head">JA: MWCL 2022</span> Dixian Zhao, **Peng Gu**, Jiajun Zhang, Yongran Yi, Mengru Yang, Chenyu Xu, Yuan Chai, Huiqi Liu, Pingyang He, Na Peng, Liangliang Liu, Xiangxi Yan and Xiaohu You, [A 1.9-dB NF K-band temperature-healing phased-array receiver employing hybrid packaged 65-nm CMOS beamformer and 0.1-μm GaAs LNAs](https://ieeexplore.ieee.org/abstract/document/9749959/), IEEE Microwave and Wireless Components Letters, vol. 32, no. 6, pp. 768-771, 2022
 - <span class="paper-list-head">JA: TCAS-I 2021</span> Dixian Zhao, **Peng Gu**, Jiecheng Zhong, Na Peng, Mengru Yang, Yongran Yi, Jiajun Zhang, Pingyang He, Yuan Chai, Zhihui Chen and Xiaohu You, [Millimeter-wave integrated phased arrays](https://ieeexplore.ieee.org/abstract/document/9481190/), IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 68, no. 10, pp. 3977–3990, 2021.
 - <span class="paper-list-head">JA: SSCL 2020</span> Na Peng, **Peng Gu** and Dixian Zhao, [A Ka-band CMOS 4-beam phased-array receiver with symmetrical beam-distribution network](https://ieeexplore.ieee.org/abstract/document/9201043/), IEEE Solid-State Circuits Letters, vol. 3, pp. 410-413, 2020
-
-
-# 🎖 Honors and Awards
-- *2022.10*, Baosteel Outstanding Student Award, Baosteel (TOP 0.05%)
-- *2021.12*, National Scholarship, Ministry of Education, China (TOP 1%)
-- *2020.09*, First-Class Scholarship, Southeast University, China (TOP 10%)
-- *2017.06*, Outstanding Graduates, Southeast University, China (TOP 5%)
-
-
-# 📖 Educations
-- *2017.09 - 2022.09*, Ph.D., information science and engineering, Southeast University. 
-- *2013.09 - 2017.06*, B.Sc., information science and engineering, Southeast University.
